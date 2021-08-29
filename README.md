@@ -16,7 +16,7 @@
 </p>
 
 ## Tech stack
-
+<p align="center">
 <img src="https://img.shields.io/badge/javascript-f7df1e?logo=javascript&style=for-the-badge&logoColor=black" height="30" />
 <img src="https://img.shields.io/badge/html-E34F26?logo=html5&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/css-1572B6?logo=css3&style=for-the-badge" height="30" />
@@ -49,14 +49,15 @@
 <img src="https://img.shields.io/badge/slack-4A154B?logo=Slack&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/JetBrains-000000?logo=JetBrains&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/VC%20Code-007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white" height="30" />
-
+</p>
 
 ## Roadmap
+<p align="center">
 <img src="https://img.shields.io/badge/WebAssembly-d5d5d5?logo=WebAssembly&style=for-the-badge&logoColor=654FF0" height="30" />
 <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?logo=Kubernetes&style=for-the-badge&logoColor=326CE5" height="30" />
 <img src="https://img.shields.io/badge/Terraform-d5d5d5?logo=Terraform&style=for-the-badge&logoColor=7B42BC" height="30" />
 <img src="https://img.shields.io/badge/.NET-d5d5d5?logo=.NET&style=for-the-badge&logoColor=512BD4" height="30" />
-
+</p>
 
 
 ## Contact: 
