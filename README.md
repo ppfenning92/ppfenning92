@@ -11,7 +11,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 - Currentliy learning Ansible 📖 
 - Goals for 2022: contributing to open-source and publising articles 📄 
 - Somewhat professional home cook 🍔🍝🍲🍛
-  
+
 
 
 ### Core Features
@@ -68,6 +68,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 
 ## Contact
 
+<p align="center">
 
 [<img align="left" height="40" alt="Patrick Pfenning | Instagram" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
 [<img align="left" height="40" alt="Patrick Pfenning | Github" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
@@ -75,27 +76,37 @@ new Intl.NumberFormat(navigator.language).format('69420')
 [<img align="left" height="40" alt="Patrick Pfenning | Codepen" src="https://unpkg.com/simple-icons@v5/icons/codepen.svg" />][codepen]
 [<img align="" height="40" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
+</p>
 
+---
+<p align="center">
+
+![Patrick's readme streaks](https://github-readme-streak-stats.herokuapp.com/?user=ppfenning92&theme=tokyonight_duo&hide_border=true&background=00303D&stroke=D4D5D8&fire=8C2E4E&ring=8C2E4E&currStreakNum=F374AE&currStreakLabel=F374AE&dates=D4D5D8&sideNums=F374AE&sideLabels=F374AE "Patrick's readme streaks")
+
+</p>
 ---
 ## Misc Information
 
+#### Fun facts
 - allergic to almost anything 🐕🌳 
 - star wars enthusiast 
 - small time crypto miner
 - tinkerer
-- 
+
+#### Something I like
+#### Hobbies
 
 
 ## Statistics
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ppfenning92&bg_color=-10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&hide_border=true&show_icons=true&count_private=true&line_height=32&custom_title=Github%20statistics)][github]
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ppfenning92&bg_color=-10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&border_radius=0&show_icons=true&count_private=true&line_height=32&custom_title=Github%20statistics)][github]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppfenning92&bg_color=10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&hide_border=true&show_icons=true?langs_count=10)][github]
+
+[![Coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ppfenning92&bg_color=-20,00303D,8C2E4E&text_color=D4D5D8&icon_color=D4D5D8&hide_border=true&title_color=D4D5D8&layout=compact&langs_count=10&custom_title=Time%20spend%20in%20the%20zone)][wakatime]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppfenning92&bg_color=10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&border_radius=0&show_icons=true?langs_count=10)][github]
 
-
-[![Coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ppfenning92&bg_color=-20,00303D,8C2E4E&text_color=D4D5D8&icon_color=D4D5D8&border_radius=0&title_color=D4D5D8&layout=compact&langs_count=10&custom_title=Time%20spend%20in%20the%20zone)][wakatime]
 
 
 <!-- 
