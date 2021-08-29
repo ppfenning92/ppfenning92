@@ -52,7 +52,7 @@
 <img align="left" style="margin-block: 4px;" src="https://img.shields.io/badge/WebAssembly-d5d5d5?logo=WebAssembly&style=for-the-badge&logoColor=654FF0" height="30" />
 <img align="left" style="margin-block: 4px;" src="https://img.shields.io/badge/Kubernetes-d5d5d5?logo=Kubernetes&style=for-the-badge&logoColor=326CE5" height="30" />
 <img align="left" style="margin-block: 4px;" src="https://img.shields.io/badge/Terraform-d5d5d5?logo=Terraform&style=for-the-badge&logoColor=7B42BC" height="30" />
-<img style="margin-block: 4px;" rc="https://img.shields.io/badge/.NET-d5d5d5?logo=.NET&style=for-the-badge&logoColor=512BD4" height="30" />
+<img style="margin-block: 4px;" src="https://img.shields.io/badge/.NET-d5d5d5?logo=.NET&style=for-the-badge&logoColor=512BD4" height="30" />
 
 
 
