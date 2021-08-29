@@ -1,5 +1,11 @@
 # Patrick 
 
+###### newest novelty code snippet
+```typescript
+// returns numbers with correct thousand seperator by locale, without any checks
+new Intl.NumberFormat(navigator.language).format('69420')
+```
+
 ## About
 - Full stack software engineer (doing some systems design aswell) 💻
 - Currentliy learning Ansible 📖 
@@ -8,14 +14,14 @@
   
 
 
-## Core Features
+### Core Features
 <p align="center">
 <img src="https://img.shields.io/badge/angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/typescript-2d79c7?logo=typescript&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white" height="30" />
 </p>
 
-## Tech stack
+### Tech stack
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-f7df1e?logo=javascript&style=for-the-badge&logoColor=black" height="30" />
 <img src="https://img.shields.io/badge/html-E34F26?logo=html5&style=for-the-badge&logoColor=white" height="30" />
@@ -51,7 +57,7 @@
 <img src="https://img.shields.io/badge/VC%20Code-007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white" height="30" />
 </p>
 
-## Roadmap
+### Roadmap
 <p align="center">
 <img src="https://img.shields.io/badge/WebAssembly-d5d5d5?logo=WebAssembly&style=for-the-badge&logoColor=654FF0" height="30" />
 <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?logo=Kubernetes&style=for-the-badge&logoColor=326CE5" height="30" />
@@ -60,7 +66,7 @@
 </p>
 
 
-## Contact: 
+## Contact
 
 
 [<img align="left" height="40" alt="Patrick Pfenning | Instagram" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
@@ -71,6 +77,15 @@
 
 
 ---
+## Misc Information
+
+- allergic to almost anything 🐕🌳 
+- star wars enthusiast 
+- small time crypto miner
+- tinkerer
+- 
+
+
 ## Statistics
 
 
@@ -80,7 +95,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppfenning92&bg_color=10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&border_radius=0&show_icons=true?langs_count=10)][github]
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ppfenning92&bg_color=-20,00303D,8C2E4E&text_color=D4D5D8&icon_color=D4D5D8&border_radius=0&title_color=D4D5D8&layout=compact&langs_count=10&custom_title=Time%20spend%20in%20the%20zone)][wakatime]
+[![Coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ppfenning92&bg_color=-20,00303D,8C2E4E&text_color=D4D5D8&icon_color=D4D5D8&border_radius=0&title_color=D4D5D8&layout=compact&langs_count=10&custom_title=Time%20spend%20in%20the%20zone)][wakatime]
 
 
 <!-- 
