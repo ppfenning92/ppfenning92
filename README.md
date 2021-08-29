@@ -12,13 +12,25 @@ new Intl.NumberFormat(navigator.language).format('69420')
 - Goals for 2022: contributing to open-source and publising articles 📄 
 - Somewhat professional home cook 🍔🍝🍲🍛
 
+## Contact
+
+<p align="left">
+
+[<img align="left" height="40" alt="Patrick Pfenning | Instagram" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img align="left" height="40" alt="Patrick Pfenning | Github" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
+[<img align="left" height="40" alt="Patrick Pfenning | Twitter" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
+[<img align="left" height="40" alt="Patrick Pfenning | Codepen" src="https://unpkg.com/simple-icons@v5/icons/codepen.svg" />][codepen]
+[<img align="" height="40" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+
+</p>
+
 
 
 ### Core Features
-<p align="center">
-<img src="https://img.shields.io/badge/angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/typescript-2d79c7?logo=typescript&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white" height="30" />
+<p align="left">
+<img src="https://img.shields.io/badge/angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/typescript-2d79c7?logo=typescript&style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white" height="40" />
 </p>
 
 ### Tech stack
@@ -58,7 +70,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 </p>
 
 ### Roadmap
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/WebAssembly-d5d5d5?logo=WebAssembly&style=for-the-badge&logoColor=654FF0" height="30" />
 <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?logo=Kubernetes&style=for-the-badge&logoColor=326CE5" height="30" />
 <img src="https://img.shields.io/badge/Terraform-d5d5d5?logo=Terraform&style=for-the-badge&logoColor=7B42BC" height="30" />
@@ -66,25 +78,18 @@ new Intl.NumberFormat(navigator.language).format('69420')
 </p>
 
 
-## Contact
 
-<p align="center">
-
-[<img align="left" height="40" alt="Patrick Pfenning | Instagram" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
-[<img align="left" height="40" alt="Patrick Pfenning | Github" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
-[<img align="left" height="40" alt="Patrick Pfenning | Twitter" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
-[<img align="left" height="40" alt="Patrick Pfenning | Codepen" src="https://unpkg.com/simple-icons@v5/icons/codepen.svg" />][codepen]
-[<img align="" height="40" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-
-</p>
 
 ---
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppfenning92&theme=tokyonight_duo&hide_border=true&background=00303D&stroke=D4D5D8&fire=8C2E4E&ring=8C2E4E&currStreakNum=F374AE&currStreakLabel=F374AE&dates=D4D5D8&sideNums=F374AE&sideLabels=F374AE" alt="Patrick's readme streaks" />
 
 </p>
+
 ---
+
+
 ## Misc Information
 
 #### Fun facts
@@ -101,7 +106,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ppfenning92&bg_color=-10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&hide_border=true&show_icons=true&count_private=true&line_height=32&custom_title=Github%20statistics)][github]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppfenning92&bg_color=10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&hide_border=true&show_icons=true?langs_count=10)][github]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppfenning92&bg_color=10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&hide_border=true&langs_count=10)][github]
 
 [![Coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ppfenning92&bg_color=-20,00303D,8C2E4E&text_color=D4D5D8&icon_color=D4D5D8&hide_border=true&title_color=D4D5D8&layout=compact&langs_count=10&custom_title=Time%20spend%20in%20the%20zone)][wakatime]
 
