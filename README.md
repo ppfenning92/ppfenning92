@@ -9,9 +9,9 @@
 
 
 ## Core Features
-<img align="left" style="margin: 4px 0;" src="https://img.shields.io/badge/angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" height="30" />
-<img align="left" style="margin: 4px 0;" src="https://img.shields.io/badge/typescript-2d79c7?logo=typescript&style=for-the-badge&logoColor=white" height="30" />
-<img style="margin: 4px 0;" src="https://img.shields.io/badge/RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white" height="30" />
+<img align="left" style="margin: 4px 0;" src="https://img.shields.io/badge/angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" height="30" />[github]
+<img align="left" style="margin: 4px 0;" src="https://img.shields.io/badge/typescript-2d79c7?logo=typescript&style=for-the-badge&logoColor=white" height="30" />[github]
+<img style="margin: 4px 0;" src="https://img.shields.io/badge/RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white" height="30" />[github]
 
 ## Tech stack
 
