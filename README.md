@@ -34,7 +34,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 </p>
 
 ### Tech stack
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/javascript-f7df1e?logo=javascript&style=for-the-badge&logoColor=black" height="30" />
 <img src="https://img.shields.io/badge/html-E34F26?logo=html5&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/css-1572B6?logo=css3&style=for-the-badge" height="30" />
