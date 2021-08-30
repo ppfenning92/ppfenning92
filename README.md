@@ -98,7 +98,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 #### Fun facts
 - semi-pro googler <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" alt="meao code" height="32"/>
 - allergic to almost anything <img src="https://emojis.slackmojis.com/emojis/images/1580857116/7692/crycat.png?1580857116" alt="crycat" height="32">
-- star wars enthusiast <img src=" https://emojis.slackmojis.com/emojis/images/1597609867/10093/jedi_parrot.gif?1597609867" alt="jedi-parrot" height="32" />
+- star wars enthusiast <img src="https://emojis.slackmojis.com/emojis/images/1597609867/10093/jedi_parrot.gif?1597609867" alt="jedi-parrot" height="32" />
 - small time crypto miner <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" alt="cool doge"   height="32"/>
 - tinkerer <img src="https://emojis.slackmojis.com/emojis/images/1579644131/7581/elmofire.gif?1579644131" alt="elmofire" height="32"/>
 
