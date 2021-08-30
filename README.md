@@ -20,8 +20,8 @@ new Intl.NumberFormat(navigator.language).format('69420')
 [<img align="left" height="40" alt="Patrick Pfenning | Github" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
 [<img align="left" height="40" alt="Patrick Pfenning | Twitter" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" height="40" alt="Patrick Pfenning | Codepen" src="https://unpkg.com/simple-icons@v5/icons/codepen.svg" />][codepen]
-[<img align="" height="40" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img src="https://unpkg.com/simple-icons@5.12.0/icons/spotify.svg" height="40" />][drop-the-base-501]
+[<img align="left" height="40" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img alt="Patrick Pfenning | Spotify" src="https://unpkg.com/simple-icons@5.12.0/icons/spotify.svg" height="40" />][drop-the-base-501]
 </p>
 
 
