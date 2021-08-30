@@ -50,7 +50,6 @@ new Intl.NumberFormat(navigator.language).format('69420')
 <img src="https://img.shields.io/badge/Material%20Design-757575?logo=Material%20Design&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/firebase-FFCA28?logo=Firebase&style=for-the-badge&logoColor=000000" height="30" />
 <img src="https://img.shields.io/badge/MQTT-3C5280?logo=Eclipse Mosquitto&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/ubuntu-E95420?logo=Ubuntu&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=KaliLinux&style=for-the-badge&logoColor=white" height="30" />
@@ -71,6 +70,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 
 ### Roadmap
 <p align="left">
+ <img src="https://img.shields.io/badge/firebase-d5d5d5?logo=Firebase&style=for-the-badge&logoColor=FFCA28" height="30" />
 <img src="https://img.shields.io/badge/WebAssembly-d5d5d5?logo=WebAssembly&style=for-the-badge&logoColor=654FF0" height="30" />
 <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?logo=Kubernetes&style=for-the-badge&logoColor=326CE5" height="30" />
 <img src="https://img.shields.io/badge/Terraform-d5d5d5?logo=Terraform&style=for-the-badge&logoColor=7B42BC" height="30" />
