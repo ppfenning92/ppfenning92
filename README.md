@@ -98,8 +98,8 @@ new Intl.NumberFormat(navigator.language).format('69420')
 #### Fun facts
 - semi-pro googler
 - allergic to almost anything 🐕🌳 
-- star wars enthusiast 
-- small time crypto miner ![Crypto Parrot][crypto-parrot]
+- star wars enthusiast <img src=" https://emojis.slackmojis.com/emojis/images/1597609867/10093/jedi_parrot.gif?1597609867" alt="jedi-parrot" height="32" />
+- small time crypto miner <img src="https://emojis.slackmojis.com/emojis/images/1597609847/10055/crypto_parrot.gif?1597609847" alt="btc parrot"  height="32" />
 - tinkerer
 
 #### Something I like
@@ -138,3 +138,4 @@ new Intl.NumberFormat(navigator.language).format('69420')
 
 <!-- Parrots -->
 [crypto-parrot]: https://emojis.slackmojis.com/emojis/images/1597609847/10055/crypto_parrot.gif?1597609847
+[jedi-parrot]: https://emojis.slackmojis.com/emojis/images/1597609867/10093/jedi_parrot.gif?1597609867
