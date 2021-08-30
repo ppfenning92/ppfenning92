@@ -99,7 +99,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 - semi-pro googler
 - allergic to almost anything 🐕🌳 
 - star wars enthusiast 
-- small time crypto miner
+- small time crypto miner ![Crypto Parrot][crypto-parrot]
 - tinkerer
 
 #### Something I like
@@ -135,3 +135,6 @@ new Intl.NumberFormat(navigator.language).format('69420')
 [github]: https://github.com/ppfenning92
 [twitter]: https://twitter.com/PPfenning92
 [wakatime]: https://wakatime.com/@ppfenning92
+
+<!-- Parrots -->
+[crypto-parrot]: https://emojis.slackmojis.com/emojis/images/1597609847/10055/crypto_parrot.gif?1597609847
