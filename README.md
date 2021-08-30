@@ -93,13 +93,22 @@ new Intl.NumberFormat(navigator.language).format('69420')
 ## Misc Information
 
 #### Fun facts
+- semi-pro googler
 - allergic to almost anything 🐕🌳 
 - star wars enthusiast 
 - small time crypto miner
 - tinkerer
 
 #### Something I like
+- rgb 
+- tabs over spaces
+- darkmode
+- cleand code
+
 #### Hobbies
+- cooking and baking 🍪
+- hiking 🌳 🌲 ⛰️
+ 
 
 
 ## Statistics
