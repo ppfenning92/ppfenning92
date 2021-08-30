@@ -9,7 +9,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 ## About
 - Full stack software engineer (doing some systems design aswell) 💻
 - Currentliy learning Ansible 📖 
-- Goals for 2022: contributing to open-source and publising articles 📄 
+- Goals for 2021/2022: contributing to open-source and publising articles 📄 
 - Somewhat professional home cook 🍔🍝🍲🍛
 
 ## Contact
