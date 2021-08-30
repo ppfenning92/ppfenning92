@@ -21,7 +21,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 [<img align="left" height="40" alt="Patrick Pfenning | Twitter" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" height="40" alt="Patrick Pfenning | Codepen" src="https://unpkg.com/simple-icons@v5/icons/codepen.svg" />][codepen]
 [<img align="" height="40" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-
+[<img src="https://unpkg.com/simple-icons@5.12.0/icons/spotify.svg" height="40" />][drop-the-base-501]
 </p>
 
 
@@ -111,7 +111,11 @@ new Intl.NumberFormat(navigator.language).format('69420')
 #### Hobbies
 - cooking and baking 
 - hiking 
- 
+- coding
+
+
+
+
 
 ## Statistics
 
@@ -135,3 +139,4 @@ new Intl.NumberFormat(navigator.language).format('69420')
 [twitter]: https://twitter.com/PPfenning92
 [wakatime]: https://wakatime.com/@ppfenning92
 
+[drop-the-base-501]: https://open.spotify.com/playlist/4W9npaPJqXFGSljuCclbN9?si=8f0378b184f44e7b
