@@ -16,21 +16,21 @@ new Intl.NumberFormat(navigator.language).format('69420')
 
 <p align="left">
 
-[<img align="left" height="40" alt="Patrick Pfenning | Instagram" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
-[<img align="left" height="40" alt="Patrick Pfenning | Github" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
-[<img align="left" height="40" alt="Patrick Pfenning | Twitter" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
-[<img align="left" height="40" alt="Patrick Pfenning | Codepen" src="https://unpkg.com/simple-icons@v5/icons/codepen.svg" />][codepen]
-[<img align="left" height="40" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img alt="Patrick Pfenning | Spotify" src="https://unpkg.com/simple-icons@5.12.0/icons/spotify.svg" height="40" />][drop-the-base-501]
+[<img align="left" height="32" alt="Patrick Pfenning | Instagram" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img align="left" height="32" alt="Patrick Pfenning | Github" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
+[<img align="left" height="32" alt="Patrick Pfenning | Twitter" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
+[<img align="left" height="32" alt="Patrick Pfenning | Codepen" src="https://unpkg.com/simple-icons@v5/icons/codepen.svg" />][codepen]
+[<img align="left" height="32" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img alt="Patrick Pfenning | Spotify" src="https://unpkg.com/simple-icons@5.12.0/icons/spotify.svg" height="32" />][drop-the-base-501]
 </p>
 
 
 
 ### Core Features
 <p align="left">
-<img src="https://img.shields.io/badge/angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/typescript-2d79c7?logo=typescript&style=for-the-badge&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/typescript-2d79c7?logo=typescript&style=for-the-badge&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white" height="32" />
 </p>
 
 ### Tech stack

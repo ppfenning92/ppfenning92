@@ -1,0 +1,176 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;   
+}
+h1,h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+h3 {
+    font-size: 1.375rem;
+}
+
+.aside,
+#main {
+    padding: 1rem;
+}
+.aside {
+    font-size: .675rem;
+    background-color: hsl(0, 0%, 25%);
+    color: white;
+    min-width: 30%;
+    max-width: 35%;
+}
+
+.aside a {
+    color: white;
+    text-decoration: none;
+}
+.person > * {
+    border-bottom: 1px solid hsl(0, 100%, 38%);
+    padding: 1rem 0 
+}
+
+#header {
+    text-align: center;
+}
+.info {
+
+}
+.info .info__entry {
+    display: flex;
+    align-items: center;
+}
+.info .info__entry .info__entry__icon {
+    padding: 1rem
+}
+.info .info__entry .info__entry__icon img {
+    filter: invert(100%)
+}
+.info .info__entry .info__entry__value {}
+.info .info__entry .info__entry__value.info__entry__value--hobbies {
+    display: flex;
+    justify-content: space-evenly;
+}
+.info .info__entry .info__entry__value.info__entry__value--hobbies span {}
+
+.social {}
+.social .social__entry {
+    display: flex;
+    align-items: center;
+}
+.social .social__entry .social__entry__icon {
+    padding: 1rem
+}
+.social .social__entry .social__entry__icon img {
+    filter: invert(100%)
+}
+.social .social__entry .social__entry__link {
+    word-break: break-all;
+}
+
+main#main {
+    width: 100%;
+}
+#main section {
+    margin-bottom: 2rem;
+}
+
+.exp-practical {}
+.exp-practical .exp-practical__entry {
+    padding: 0 0 1.375rem 1rem;
+    border-left: 2px solid  hsl(0, 0%, 25%);
+}
+
+.exp-practical .exp-practical__entry .exp-practical__entry__name {
+    font-weight: bold;
+    position: relative;
+}
+.exp-practical .exp-practical__entry .exp-practical__entry__name::before {
+    content: ' ';
+    left: calc(-1.375rem + 2px);
+    position: absolute;
+    top: calc(50% - 2.5px);
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: hsl(0, 100%, 38%);
+}
+.exp-practical .exp-practical__entry .exp-practical__entry__meta {
+    display: flex;
+    padding: .5rem 0;
+    justify-content: space-between;
+    font-size: .875rem;
+    font-weight: 300;
+    font-style: italic;
+}
+.exp-practical .exp-practical__entry .exp-practical__entry__responsibilities {
+    font-size: .875rem;
+}
+
+.exp-education {}
+.exp-education .exp-education__entry {
+    padding: 0 0 1.375rem 1rem;
+    border-left: 2px solid  hsl(0, 0%, 25%);
+}
+.exp-education .exp-education__entry .exp-education__entry__name {
+    font-weight: bold;
+    position: relative;
+}
+.exp-education .exp-education__entry .exp-education__entry__name::before {
+    content: ' ';
+    left: calc(-1.375rem + 2px);
+    position: absolute;
+    top: calc(50% - 2.5px);
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: hsl(0, 100%, 38%);
+}
+.exp-education .exp-education__entry .exp-education__entry__meta {
+    display: flex;
+    padding: .5rem 0;
+    justify-content: space-between;
+    font-size: .875rem;
+    font-weight: 300;
+    font-style: italic;
+}
+.exp-education .exp-education__entry .exp-education__entry__info {
+    font-size: .875rem;
+}
+
+.exp-skills {}
+.exp-skills ul {
+    padding: 0 0 1.375rem 1rem;
+    border-left: 2px solid  hsl(0, 0%, 25%);
+}
+
+
+@media print {
+    img {
+        filter: none !important;
+        transform: scale(75%);
+        transform-origin: center;
+    }
+    
+}
