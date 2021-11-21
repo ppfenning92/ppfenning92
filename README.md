@@ -123,7 +123,7 @@ new Intl.NumberFormat(navigator.language).format('69420')
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppfenning92&bg_color=10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&hide_border=true&langs_count=10)][github]
 
-[![Coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ppfenning92&bg_color=-20,00303D,8C2E4E&text_color=D4D5D8&icon_color=D4D5D8&hide_border=true&title_color=D4D5D8&layout=compact&langs_count=10&custom_title=Time%20spend%20in%20the%20zone)][wakatime]
+[![Coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ppfenning92&bg_color=-20,00303D,8C2E4E&text_color=D4D5D8&icon_color=D4D5D8&hide_border=true&title_color=D4D5D8&layout=compact&langs_count=10&custom_title=Time%20in%20the%20zone)][wakatime]
 
 
 
