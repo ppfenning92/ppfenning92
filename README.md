@@ -64,7 +64,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppfenning92&theme=tokyonight_duo&hide_border=true&background=00303D&stroke=D4D5D8&fire=8C2E4E&ring=8C2E4E&currStreakNum=F374AE&currStreakLabel=F374AE&dates=D4D5D8&sideNums=F374AE&sideLabels=F374AE" alt="Patrick's readme streaks" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/jamesgeorge007/github-activity-readme/issues/63) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 </p>
 
