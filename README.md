@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/ubuntu-E95420?logo=Ubuntu&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/windows-0078D6?logo=Windows&style=for-the-badge" height="30" />
-+<img src="https://img.shields.io/badge/gitlab-FCA121?logo=gitlab&style=for-the-badge&logoColor=ffffff" height="30" />
+<img src="https://img.shields.io/badge/gitlab-FCA121?logo=gitlab&style=for-the-badge&logoColor=ffffff" height="30" />
 <img src="https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" height="30" />
 
