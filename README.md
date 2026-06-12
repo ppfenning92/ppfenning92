@@ -1,113 +1,78 @@
-# Patrick 
+# Hey, I'm Patrick
 
-
-## About
-- Full stack software engineer 💻
-- Currentliy learning Terraform and AWS 📖 
-- Somewhat professional home cook 🍔🍝🍲🍛
-
-## Contact
-
-<p align="left">
-
-[<img align="left" height="32" alt="Patrick Pfenning | Instagram" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
-[<img align="left" height="32" alt="Patrick Pfenning | Github" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
-[<img align="left" height="32" alt="Patrick Pfenning | LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img alt="Patrick Pfenning | Spotify" src="https://unpkg.com/simple-icons@5.12.0/icons/spotify.svg" height="32" />][drop-the-base-501]
-</p>
-
-
-
-### Core Features
-<p align="left">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&style=for-the-badge&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/OpenTofu-ffda18?logo=opentofu&style=for-the-badge&logoColor=black" height="32" />
- <img src="https://img.shields.io/badge/Bash-a32d2a?logo=gnubash&style=for-the-badge&logoColor=white" height="32" />
-</p>
-
-### Tech stack
-<p align="left">
-<img src="https://img.shields.io/badge/javascript-f7df1e?logo=javascript&style=for-the-badge&logoColor=black" height="30" />
-<img src="https://img.shields.io/badge/html-E34F26?logo=html5&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/css-1572B6?logo=css3&style=for-the-badge" height="30" />
-<img src="https://img.shields.io/badge/angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/typescript-2d79c7?logo=typescript&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/nodejs-339933?logo=Node.js&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white" height="30" />
-
-<img src="https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&style=for-the-badge&logoColor=white" height="30" />
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/ubuntu-E95420?logo=Ubuntu&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/windows-0078D6?logo=Windows&style=for-the-badge" height="30" />
-<img src="https://img.shields.io/badge/gitlab-FCA121?logo=gitlab&style=for-the-badge&logoColor=ffffff" height="30" />
-<img src="https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" height="30" />
-
-<img src="https://img.shields.io/badge/ansible-EE0000?logo=ansible&style=for-the-badge&logoColor=white" height="30" />
-
-<img src="https://img.shields.io/badge/vagrant-1868F2?logo=vagrant&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/hetzner-D50C2D?logo=Hetzner&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/slack-4A154B?logo=Slack&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/JetBrains-000000?logo=JetBrains&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/VC%20Code-007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/firebase-d5d5d5?logo=Firebase&style=for-the-badge&logoColor=FFCA28" height="30" />
-
-</p>
-
-
----
-<p align="left">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ppfenning92&theme=tokyonight_duo&hide_border=true&background=00303D&stroke=D4D5D8&fire=8C2E4E&ring=8C2E4E&currStreakNum=F374AE&currStreakLabel=F374AE&dates=D4D5D8&sideNums=F374AE&sideLabels=F374AE" alt="Patrick's readme streaks" />
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</p>
+Platform & Infrastructure Engineer · Homelab tinkerer · Avid cook
 
 ---
 
+## What I do
 
-## Misc Information
+I build and run infrastructure and automate whatever I can so I don't have to do it twice. At work
+that's AWS and GCP. At home I keep it cloud-sovereign — a short list of stuff I actually trust
+(Cloudflare, NextDNS, Proton). Full-stack on paper, but I mostly live on the platform side.
 
-#### Fun facts
-- semi-pro googler <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" alt="meao code" height="32"/>
-- allergic to almost anything <img src="https://emojis.slackmojis.com/emojis/images/1580857116/7692/crycat.png?1580857116" alt="crycat" height="32">
-- star wars enthusiast <img src="https://emojis.slackmojis.com/emojis/images/1597609867/10093/jedi_parrot.gif?1597609867" alt="jedi-parrot" height="32" />
-- small time crypto miner <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" alt="cool doge"   height="32"/>
-- tinkerer <img src="https://emojis.slackmojis.com/emojis/images/1579644131/7581/elmofire.gif?1579644131" alt="elmofire" height="32"/>
+Honestly, put me in front of the AWS or GCP console and I'm lost. I only know these clouds through
+OpenTofu. If it's not in state, it doesn't exist.
 
-#### Something I like
-- rgb all the things 🧡💚💙 
-- darkmode ⚫ 
+## Tooling
 
-#### Hobbies
-- cooking and baking 
-- hiking 
-- coding
+This is the part I actually care about. My [setup](https://gitlab.com/ptrck-sh/setup) and
+[dotfiles](https://gitlab.com/ptrck-sh/dotfiles) repos get me the same environment on every machine —
+Ansible sets up the box, dotfiles do the shell, and I end up with the same config on the cluster or a
+brand new laptop. The fun part is making the tools work together:
 
+- **1Password + mise** — a little script I wrote that pulls secrets at runtime and only gives agents
+  the access they need. That's how I let Claude and Codex work with me without handing over real
+  access.
+- **alint + Renovate + pre-commit** — keeps every repo up to date, not just dependencies but the
+  tooling too. Renovate bumps the shared config, alint checks it, pre-commit fixes it. I change
+  something once and it shows up everywhere.
 
+So I can open any repo on any machine and everything's already set up.
 
+## Homelab
 
-## Statistics
+Two clusters I run (and break now and then):
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ppfenning92&bg_color=-10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&hide_border=true&show_icons=true&count_private=true&line_height=32&custom_title=Github%20statistics)][github]
+- **rke2** — an Intel NUC (amd64) running RKE2, does the heavier stuff.
+- **berry-stack** — a Raspberry Pi k3s cluster for the small always-on things.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppfenning92&bg_color=10,8C2E4E,00303D&text_color=D4D5D8&icon_color=D4D5D8&title_color=D4D5D8&hide_border=true&langs_count=10)][github]
+All the state sits on a **TrueNAS** box, off the clusters. An nfs-subdir provisioner gives workloads
+storage over NFS (my poor man's EFS), and databases run on ZFS RAID with snapshots so they're always
+backed up. Storage stays at home, which keeps it cloud-sovereign and means I can wipe a whole cluster
+and not lose anything.
 
+It's all GitOps: GitLab CI builds, Flux reconciles, OpenTofu owns the state.
 
+## Find me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/patrickpfenning/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&style=flat-square&logoColor=white)](https://gitlab.com/ptrck-sh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&logoColor=white)](https://github.com/ppfenning92)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ppfenning92)
 
+## Stack
 
-<!-- 
-<img align="center" src="https://page-views.glitch.me/badge?page_id=ppfenning92.ppfenning92"> -->
+**Infra & ops**
 
-[instagram]: https://www.instagram.com/ppfenning92
-[linkedin]: https://www.linkedin.com/in/patrickpfenning/
-[codepen]: https://codepen.io/patrickpfenning
-[github]: https://github.com/ppfenning92
-[wakatime]: https://wakatime.com/@ppfenning92
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-ffda18?logo=opentofu&style=for-the-badge&logoColor=black)
+![Flux CD](https://img.shields.io/badge/Flux_CD-5468FF?logo=flux&style=for-the-badge&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&style=for-the-badge&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&style=for-the-badge&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&style=for-the-badge&logoColor=white)
+![Buildah](https://img.shields.io/badge/Buildah-892CA0?style=for-the-badge&logoColor=white)
+![Skopeo](https://img.shields.io/badge/Skopeo-1A1A2E?style=for-the-badge&logoColor=white)
 
-[drop-the-base-501]: https://open.spotify.com/playlist/4W9npaPJqXFGSljuCclbN9?si=8f0378b184f44e7b
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&style=for-the-badge&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&style=for-the-badge&logoColor=white)
+
+**Development**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&style=for-the-badge&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?logo=gleam&style=for-the-badge&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=for-the-badge&logoColor=white)

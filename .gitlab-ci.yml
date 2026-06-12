@@ -1,0 +1,24 @@
+# Minimal pipeline: the ptrck-sh pre-commit component is deliberately not used
+# here — it back-commits fixes via a bot SSH key, which this personal-namespace
+# repo has no group variables for. Its hooks run inline below in check-only mode
+# (fails on findings, pushes nothing). The security component is kept as-is.
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+stages:
+  - lint
+  - test
+
+include:
+  - component: $CI_SERVER_FQDN/ptrck-sh/templates/ci-templates/security@0.18.0
+
+pre-commit:
+  stage: lint
+  image:
+    # renovate: datasource=docker depName=registry.gitlab.com/ptrck-sh/containers/pre-commit-aio
+    name: registry.gitlab.com/ptrck-sh/containers/pre-commit-aio:0.4.0
+    entrypoint: [""]
+  script:
+    - pre-commit run --all-files
